@@ -1,0 +1,4 @@
+the level uses 50 tiles.
+The top ten are 128px * 40px
+The playable 50 tiles are 128px * 128px
+The bottom ten are 128px * 40px
